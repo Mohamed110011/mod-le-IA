@@ -1,0 +1,438 @@
+[
+  {
+    "id": "34653fbc-a039-4c50-88e9-11f92d6840b5",
+    "ref": "REF629962",
+    "rank": 0,
+    "title": "PIZZA MARGHE",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Pizza Margherita",
+        "imp": [],
+        "salesSupport": {
+          "fr": {
+            "name": "Pizza Margherita",
+            "description": "Pizza Margherita classique avec mozzarella di bufala et basilic frais"
+          },
+          "en": {
+            "name": "pizza margherita",
+            "description": "pizza margherita classique avec mozzarella di bufala et basilic frais"
+          },
+          "ar": {
+            "name": "بيتزا margherita",
+            "description": "بيتزا margherita classique avec mozzarella di bufala et basilic frais"
+          }
+        }
+      }
+    },
+    "description": {
+      "dflt": {
+        "nameDef": "Pizza Margherita classique avec mozzarella di bufala et basilic frais",
+        "imp": [],
+        "salesSupport": {}
+      }
+    },
+    "img": {
+      "dflt": {
+        "img": "d:/model-IA-image/generated_images\\Pizza_Margherita_from_json.webp",
+        "salesSupport": {}
+      }
+    },
+    "video": {
+      "url": "",
+      "type": ""
+    },
+    "price": 12.19,
+    "category": "PIZZAS",
+    "allergens": [
+      "fromage",
+      "gluten",
+      "lait"
+    ],
+    "options": [],
+    "isAvailable": true,
+    "items": [],
+    "linkedItems": [],
+    "linkedChild": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [
+          2,
+          1,
+          0
+        ],
+        "2": [
+          2,
+          1,
+          0
+        ],
+        "3": [
+          2,
+          1,
+          0
+        ]
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "archive": false,
+    "color": "#FFFFFF",
+    "idCard": [],
+    "parent": "",
+    "liaison": [],
+    "isNameShow": true,
+    "child": [],
+    "dateCreation": "2026-02-25 12:56:39",
+    "_generated_by_ai": true
+  },
+  {
+    "id": "5ff10d41-fa1b-4dcf-bd33-9302279c517e",
+    "ref": "REF852396",
+    "rank": 0,
+    "title": "MILKSHAKE CH",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Milkshake Chocolat",
+        "imp": [],
+        "salesSupport": {
+          "fr": {
+            "name": "Milkshake Chocolat",
+            "description": "Milkshake au chocolat belge avec chantilly maison et sauce caramel"
+          },
+          "en": {
+            "name": "milkshake chocolate",
+            "description": "milkshake au chocolate belge avec whipped cream maison et sauce caramel"
+          },
+          "ar": {
+            "name": "ميلك شيك شوكولاتة",
+            "description": "ميلك شيك au شوكولاتة belge avec كريمة مخفوقة maison et صلصة كراميل"
+          }
+        }
+      }
+    },
+    "description": {
+      "dflt": {
+        "nameDef": "Milkshake au chocolat belge avec chantilly maison et sauce caramel",
+        "imp": [],
+        "salesSupport": {}
+      }
+    },
+    "img": {
+      "dflt": {
+        "img": "d:/model-IA-image/generated_images\\Milkshake_Chocolat_from_json.webp",
+        "salesSupport": {}
+      }
+    },
+    "video": {
+      "url": "",
+      "type": ""
+    },
+    "price": 4.56,
+    "category": "MILKSHAKE",
+    "allergens": [
+      "lait"
+    ],
+    "options": [
+      {
+        "label": "Taille",
+        "required": true,
+        "choices": [
+          {
+            "name": "Petit",
+            "priceModifier": 0.0
+          },
+          {
+            "name": "Grand",
+            "priceModifier": 0.0
+          }
+        ]
+      }
+    ],
+    "isAvailable": true,
+    "items": [],
+    "linkedItems": [],
+    "linkedChild": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [
+          2,
+          1,
+          0
+        ],
+        "2": [
+          2,
+          1,
+          0
+        ],
+        "3": [
+          2,
+          1,
+          0
+        ]
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "archive": false,
+    "color": "#FFFFFF",
+    "idCard": [],
+    "parent": "",
+    "liaison": [],
+    "isNameShow": true,
+    "child": [],
+    "dateCreation": "2026-02-25 12:56:40",
+    "_generated_by_ai": true
+  },
+  {
+    "id": "3ba54865-5dd0-488a-8a76-e44ca939890f",
+    "ref": "REF183696",
+    "rank": 0,
+    "title": "CHICKEN TEND",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Chicken Tenders",
+        "imp": [],
+        "salesSupport": {
+          "fr": {
+            "name": "Chicken Tenders",
+            "description": "Chicken Tenders croustillants servis avec sauce BBQ fumée"
+          },
+          "en": {
+            "name": "chicken tenders",
+            "description": "chicken tenders croustillants servis avec sauce bbq fumée"
+          },
+          "ar": {
+            "name": "chicken tenders",
+            "description": "chicken tenders croustillants servis avec صلصة bbq fumée"
+          }
+        }
+      }
+    },
+    "description": {
+      "dflt": {
+        "nameDef": "Chicken Tenders croustillants servis avec sauce BBQ fumée",
+        "imp": [],
+        "salesSupport": {}
+      }
+    },
+    "img": {
+      "dflt": {
+        "img": "d:/model-IA-image/generated_images\\Chicken_Tenders_from_json.webp",
+        "salesSupport": {}
+      }
+    },
+    "video": {
+      "url": "",
+      "type": ""
+    },
+    "price": 11.35,
+    "category": "FINGER FOOD",
+    "allergens": [],
+    "options": [],
+    "isAvailable": true,
+    "items": [],
+    "linkedItems": [],
+    "linkedChild": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [
+          2,
+          1,
+          0
+        ],
+        "2": [
+          2,
+          1,
+          0
+        ],
+        "3": [
+          2,
+          1,
+          0
+        ]
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "archive": false,
+    "color": "#FFFFFF",
+    "idCard": [],
+    "parent": "",
+    "liaison": [],
+    "isNameShow": true,
+    "child": [],
+    "dateCreation": "2026-02-25 12:56:41",
+    "_generated_by_ai": true
+  },
+  {
+    "id": "25295200-7e99-4c7f-8a30-c23e916f18e7",
+    "ref": "REF232765",
+    "rank": 0,
+    "title": "SALADE CÉSAR",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Salade César Fraîche",
+        "imp": [],
+        "salesSupport": {
+          "fr": {
+            "name": "Salade César Fraîche",
+            "description": "Salade César fraîche avec poulet grillé, parmesan et croûtons"
+          },
+          "en": {
+            "name": "salad césar fraîche",
+            "description": "salad césar fraîche avec chicken grillé, parmesan et croûtons"
+          },
+          "ar": {
+            "name": "سلطة césar fraîche",
+            "description": "سلطة césar fraîche avec دجاج grillé, parmesan et croûtons"
+          }
+        }
+      }
+    },
+    "description": {
+      "dflt": {
+        "nameDef": "Salade César fraîche avec poulet grillé, parmesan et croûtons",
+        "imp": [],
+        "salesSupport": {}
+      }
+    },
+    "img": {
+      "dflt": {
+        "img": "d:/model-IA-image/generated_images\\Salade_César_Fraîche_from_json.webp",
+        "salesSupport": {}
+      }
+    },
+    "video": {
+      "url": "",
+      "type": ""
+    },
+    "price": 11.67,
+    "category": "SALADES",
+    "allergens": [],
+    "options": [],
+    "isAvailable": true,
+    "items": [],
+    "linkedItems": [],
+    "linkedChild": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [
+          2,
+          1,
+          0
+        ],
+        "2": [
+          2,
+          1,
+          0
+        ],
+        "3": [
+          2,
+          1,
+          0
+        ]
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "archive": false,
+    "color": "#FFFFFF",
+    "idCard": [],
+    "parent": "",
+    "liaison": [],
+    "isNameShow": true,
+    "child": [],
+    "dateCreation": "2026-02-25 12:56:41",
+    "_generated_by_ai": true
+  },
+  {
+    "id": "663773cd-4d70-48ad-854e-3c50f66b1f4d",
+    "ref": "REF838069",
+    "rank": 0,
+    "title": "TIRAMISU ITA",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Tiramisu Italien Traditionnel",
+        "imp": [],
+        "salesSupport": {
+          "fr": {
+            "name": "Tiramisu Italien Traditionnel",
+            "description": "Tiramisu italien traditionnel au café et mascarpone"
+          },
+          "en": {
+            "name": "tiramisu italien traditionnel",
+            "description": "tiramisu italien traditionnel au café et mascarpone"
+          },
+          "ar": {
+            "name": "tiramisu italien traditionnel",
+            "description": "tiramisu italien traditionnel au café et mascarpone"
+          }
+        }
+      }
+    },
+    "description": {
+      "dflt": {
+        "nameDef": "Tiramisu italien traditionnel au café et mascarpone",
+        "imp": [],
+        "salesSupport": {}
+      }
+    },
+    "img": {
+      "dflt": {
+        "img": "d:/model-IA-image/generated_images\\Tiramisu_Italien_Traditionnel_from_json.webp",
+        "salesSupport": {}
+      }
+    },
+    "video": {
+      "url": "",
+      "type": ""
+    },
+    "price": 4.62,
+    "category": "DESSERTS",
+    "allergens": [],
+    "options": [],
+    "isAvailable": true,
+    "items": [],
+    "linkedItems": [],
+    "linkedChild": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [
+          2,
+          1,
+          0
+        ],
+        "2": [
+          2,
+          1,
+          0
+        ],
+        "3": [
+          2,
+          1,
+          0
+        ]
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "archive": false,
+    "color": "#FFFFFF",
+    "idCard": [],
+    "parent": "",
+    "liaison": [],
+    "isNameShow": true,
+    "child": [],
+    "dateCreation": "2026-02-25 12:56:42",
+    "_generated_by_ai": true
+  }
+]

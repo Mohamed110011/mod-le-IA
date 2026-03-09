@@ -1,0 +1,28 @@
+# Dépendances pour le Système IA de Génération de Produits
+
+# Core dependencies (REQUIS)
+Pillow>=10.0.0          # Pour la génération et manipulation d'images
+requests>=2.31.0        # Pour les appels API HTTP
+numpy>=1.24.0           # Pour le traitement numérique
+
+# IA Image Generation (OPTIONNEL - pour images réalistes)
+# Installez selon le backend choisi :
+
+# Option 1 : OpenAI DALL-E 3 (RECOMMANDÉ - meilleure qualité)
+# Décommentez la ligne ci-dessous pour activer :
+# openai>=1.12.0
+# Prix: ~0.04$ par image | Qualité: ⭐⭐⭐⭐⭐
+
+# Option 2 : Replicate (pour tester gratuitement)
+# Décommentez la ligne ci-dessous pour activer :
+# replicate>=0.15.0
+# Prix: Gratuit limité | Qualité: ⭐⭐⭐
+
+# Option 3 : Stability AI Stable Diffusion (bon rapport qualité/prix)
+# Prix: ~0.002$ par image | Qualité: ⭐⭐⭐⭐
+
+# Installation rapide recommandée :
+# pip install openai>=1.12.0
+
+# Pour éviter les warnings
+urllib3>=2.0.0

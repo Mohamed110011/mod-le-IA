@@ -1,0 +1,272 @@
+[
+  {
+    "id": "2a0606d6-c3a0-4c88-b14c-087ced4c3ee6",
+    "ref": "REF688870",
+    "rank": 0,
+    "title": "PIZZA MARGHE",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Pizza Margherita",
+        "imp": [],
+        "salesSupport": {
+          "fr": {
+            "name": "Pizza Margherita",
+            "description": "Pizza Margherita avec mozzarella et basilic frais"
+          },
+          "en": {
+            "name": "pizza margherita",
+            "description": "pizza margherita avec mozzarella et basilic frais"
+          },
+          "ar": {
+            "name": "بيتزا margherita",
+            "description": "بيتزا margherita avec mozzarella et basilic frais"
+          }
+        }
+      }
+    },
+    "description": {
+      "dflt": {
+        "nameDef": "Pizza Margherita avec mozzarella et basilic frais",
+        "imp": [],
+        "salesSupport": {}
+      }
+    },
+    "img": {
+      "dflt": {
+        "img": "d:/model-IA-image/generated_images\\Pizza_Margherita_placeholder.webp",
+        "salesSupport": {}
+      }
+    },
+    "video": {
+      "url": "",
+      "type": ""
+    },
+    "price": 12.56,
+    "category": "PIZZAS",
+    "allergens": [
+      "fromage",
+      "gluten",
+      "lait"
+    ],
+    "options": [],
+    "isAvailable": true,
+    "items": [],
+    "linkedItems": [],
+    "linkedChild": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [
+          2,
+          1,
+          0
+        ],
+        "2": [
+          2,
+          1,
+          0
+        ],
+        "3": [
+          2,
+          1,
+          0
+        ]
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "archive": false,
+    "color": "#FFFFFF",
+    "idCard": [],
+    "parent": "",
+    "liaison": [],
+    "isNameShow": true,
+    "child": [],
+    "dateCreation": "2026-02-18 10:49:41",
+    "_generated_by_ai": true
+  },
+  {
+    "id": "4fd72b34-8e82-4ab0-9816-d434969df6a6",
+    "ref": "REF605282",
+    "rank": 0,
+    "title": "MILKSHAKE CH",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Milkshake Chocolat",
+        "imp": [],
+        "salesSupport": {
+          "fr": {
+            "name": "Milkshake Chocolat",
+            "description": "Milkshake chocolat avec chantilly"
+          },
+          "en": {
+            "name": "milkshake chocolate",
+            "description": "milkshake chocolate avec whipped cream"
+          },
+          "ar": {
+            "name": "ميلك شيك شوكولاتة",
+            "description": "ميلك شيك شوكولاتة avec كريمة مخفوقة"
+          }
+        }
+      }
+    },
+    "description": {
+      "dflt": {
+        "nameDef": "Milkshake chocolat avec chantilly",
+        "imp": [],
+        "salesSupport": {}
+      }
+    },
+    "img": {
+      "dflt": {
+        "img": "d:/model-IA-image/generated_images\\Milkshake_Chocolat_placeholder.webp",
+        "salesSupport": {}
+      }
+    },
+    "video": {
+      "url": "",
+      "type": ""
+    },
+    "price": 4.78,
+    "category": "MILKSHAKE",
+    "allergens": [
+      "lait"
+    ],
+    "options": [
+      {
+        "label": "Taille",
+        "required": true,
+        "choices": [
+          {
+            "name": "Petit",
+            "priceModifier": 0.0
+          },
+          {
+            "name": "Grand",
+            "priceModifier": 0.0
+          }
+        ]
+      }
+    ],
+    "isAvailable": true,
+    "items": [],
+    "linkedItems": [],
+    "linkedChild": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [
+          2,
+          1,
+          0
+        ],
+        "2": [
+          2,
+          1,
+          0
+        ],
+        "3": [
+          2,
+          1,
+          0
+        ]
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "archive": false,
+    "color": "#FFFFFF",
+    "idCard": [],
+    "parent": "",
+    "liaison": [],
+    "isNameShow": true,
+    "child": [],
+    "dateCreation": "2026-02-18 10:49:42",
+    "_generated_by_ai": true
+  },
+  {
+    "id": "f0fbd564-1adb-4ff0-9b83-02d6cd81e961",
+    "ref": "REF947742",
+    "rank": 0,
+    "title": "CHICKEN NUGG",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Chicken Nuggets",
+        "imp": [],
+        "salesSupport": {
+          "fr": {
+            "name": "Chicken Nuggets",
+            "description": "Chicken Nuggets croustillants 6 pièces"
+          },
+          "en": {
+            "name": "chicken nuggets",
+            "description": "chicken nuggets croustillants 6 pièces"
+          },
+          "ar": {
+            "name": "chicken nuggets",
+            "description": "chicken nuggets croustillants 6 pièces"
+          }
+        }
+      }
+    },
+    "description": {
+      "dflt": {
+        "nameDef": "Chicken Nuggets croustillants 6 pièces",
+        "imp": [],
+        "salesSupport": {}
+      }
+    },
+    "img": {
+      "dflt": {
+        "img": "d:/model-IA-image/generated_images\\Chicken_Nuggets_placeholder.webp",
+        "salesSupport": {}
+      }
+    },
+    "video": {
+      "url": "",
+      "type": ""
+    },
+    "price": null,
+    "category": "FINGER FOOD",
+    "allergens": [],
+    "options": [],
+    "isAvailable": true,
+    "items": [],
+    "linkedItems": [],
+    "linkedChild": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [
+          2,
+          1,
+          0
+        ],
+        "2": [
+          2,
+          1,
+          0
+        ],
+        "3": [
+          2,
+          1,
+          0
+        ]
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "archive": false,
+    "color": "#FFFFFF",
+    "idCard": [],
+    "parent": "",
+    "liaison": [],
+    "isNameShow": true,
+    "child": [],
+    "dateCreation": "2026-02-18 10:49:42",
+    "_generated_by_ai": true
+  }
+]

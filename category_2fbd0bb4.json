@@ -1,0 +1,28 @@
+{
+  "id": "2fbd0bb4-75cf-448d-97f2-14cfbab1b7a2",
+  "ref": "CAT345",
+  "title": "HAMBURGERS GOURMET",
+  "displayName": {
+    "dflt": {
+      "nameDef": "Hamburgers gourmet",
+      "salesSupport": {
+        "en": {
+          "name": "hamburgers gourmet"
+        },
+        "ar": {
+          "name": "hamburgers gourmet"
+        }
+      }
+    }
+  },
+  "color": "#8E44AD",
+  "img": {
+    "dflt": {
+      "img": "https://catalogue.etk360.com/placeholder-category.jpg"
+    }
+  },
+  "items": [],
+  "isVisible": true,
+  "dateCreation": "2026-02-25 13:07:14",
+  "_generated_by_ai": true
+}

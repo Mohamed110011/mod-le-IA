@@ -1,0 +1,142 @@
+[
+  {
+    "id": "e352faf5-c381-4255-9b63-eb1bc6fa0d5d",
+    "ref": "CAT239",
+    "title": "PIZZAS ARTISANALES",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Pizzas artisanales au feu de bois",
+        "salesSupport": {
+          "en": {
+            "name": "pizzas artisanales au feu de bois"
+          },
+          "ar": {
+            "name": "بيتزا artisanales au feu de bois"
+          }
+        }
+      }
+    },
+    "color": "#E74C3C",
+    "img": {
+      "dflt": {
+        "img": "https://catalogue.etk360.com/placeholder-category.jpg"
+      }
+    },
+    "items": [],
+    "isVisible": true,
+    "dateCreation": "2026-02-25 13:05:23",
+    "_generated_by_ai": true
+  },
+  {
+    "id": "9f339ca1-c26d-4d46-8ad7-7aef829a0b28",
+    "ref": "CAT680",
+    "title": "MILKSHAKES ET",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Milkshakes et boissons fraîches",
+        "salesSupport": {
+          "en": {
+            "name": "milkshakes et drinks fraîches"
+          },
+          "ar": {
+            "name": "ميلك شيك et مشروبات fraîches"
+          }
+        }
+      }
+    },
+    "color": "#F1C40F",
+    "img": {
+      "dflt": {
+        "img": "https://catalogue.etk360.com/placeholder-category.jpg"
+      }
+    },
+    "items": [],
+    "isVisible": true,
+    "dateCreation": "2026-02-25 13:05:23",
+    "_generated_by_ai": true
+  },
+  {
+    "id": "611b9649-0d03-4068-80e0-11bac0dd035d",
+    "ref": "CAT896",
+    "title": "DESSERTS GOURMANDS",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Desserts gourmands",
+        "salesSupport": {
+          "en": {
+            "name": "desserts gourmands"
+          },
+          "ar": {
+            "name": "حلويات gourmands"
+          }
+        }
+      }
+    },
+    "color": "#9B59B6",
+    "img": {
+      "dflt": {
+        "img": "https://catalogue.etk360.com/placeholder-category.jpg"
+      }
+    },
+    "items": [],
+    "isVisible": true,
+    "dateCreation": "2026-02-25 13:05:23",
+    "_generated_by_ai": true
+  },
+  {
+    "id": "4e22d242-de1b-471a-84e1-7ef814d3bac2",
+    "ref": "CAT971",
+    "title": "SALADES DE",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Salades de saison",
+        "salesSupport": {
+          "en": {
+            "name": "salads de saison"
+          },
+          "ar": {
+            "name": "سلطات de saison"
+          }
+        }
+      }
+    },
+    "color": "#2ECC71",
+    "img": {
+      "dflt": {
+        "img": "https://catalogue.etk360.com/placeholder-category.jpg"
+      }
+    },
+    "items": [],
+    "isVisible": true,
+    "dateCreation": "2026-02-25 13:05:23",
+    "_generated_by_ai": true
+  },
+  {
+    "id": "b31b2171-99ae-4726-905f-35ae43c19e44",
+    "ref": "CAT476",
+    "title": "MENUS ÉTUDIANTS",
+    "displayName": {
+      "dflt": {
+        "nameDef": "Menus étudiants",
+        "salesSupport": {
+          "en": {
+            "name": "menus étudiants"
+          },
+          "ar": {
+            "name": "قوائم étudiants"
+          }
+        }
+      }
+    },
+    "color": "#E67E22",
+    "img": {
+      "dflt": {
+        "img": "https://catalogue.etk360.com/placeholder-category.jpg"
+      }
+    },
+    "items": [],
+    "isVisible": true,
+    "dateCreation": "2026-02-25 13:05:23",
+    "_generated_by_ai": true
+  }
+]
