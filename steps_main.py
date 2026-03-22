@@ -6,8 +6,10 @@ Permet de générer automatiquement les options/modificateurs pour les produits
 import json
 import os
 import io
+import sys
 import contextlib
 from typing import Optional, List, Dict, Any
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 from steps_options_generator_ai import StepsOptionsGeneratorAI
 from data_analyzer import DataAnalyzer
 
@@ -236,7 +238,7 @@ def main():
         with contextlib.redirect_stdout(io.StringIO()):
             system = StepsOptionsAISystem(json_data_path=JSON_DATA_PATH)
             steps = system.generate_steps_from_description(args.description)
-        print(json.dumps(steps, ensure_ascii=False))
+        sys.stdout.write(json.dumps(steps, ensure_ascii=False) + '\n')
         return
 
     # Initialiser le système en mode interactif ou démo

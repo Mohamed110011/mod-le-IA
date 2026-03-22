@@ -6,9 +6,29 @@ Génère : options, modificateurs, sauces, accompagnements, etc.
 import re
 import uuid
 import random
+import urllib.parse
+import requests
 from typing import Dict, List, Any, Optional
 from datetime import datetime
 from data_analyzer import DataAnalyzer
+
+
+def _fetch_step_image_url(name: str) -> str:
+    """Cherche une image sur Openverse et retourne l'URL directe (pas de telechargement)."""
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    query = urllib.parse.quote(f"{name} food")
+    url = f"https://api.openverse.org/v1/images/?q={query}&page_size=10&license_type=commercial"
+    try:
+        resp = requests.get(url, headers=headers, timeout=15)
+        if resp.status_code == 200:
+            results = resp.json().get('results', [])
+            for item in results:
+                img_url = item.get('url', '')
+                if img_url:
+                    return img_url
+    except Exception:
+        pass
+    return ''
 
 class StepsOptionsGeneratorAI:
     """
@@ -286,10 +306,12 @@ class StepsOptionsGeneratorAI:
     def generate_step_item(self, item_data: Dict[str, Any], rank: int) -> Dict[str, Any]:
         """Génère un item d'étape avec toutes les propriétés"""
         item_id = str(uuid.uuid4())
+        name = item_data.get('name', '')
+        img_url = _fetch_step_image_url(name) if name else ''
 
         return {
             item_id: {
-                "img": item_data.get('img', ''),
+                "img": img_url,
                 "rank": rank,
                 "color": item_data.get('color', '#FFCCFF'),
                 "price": item_data.get('price', 0),
