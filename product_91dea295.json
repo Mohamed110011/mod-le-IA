@@ -1,0 +1,83 @@
+{
+  "id": "91dea295-855d-40e7-91a9-aee20dd2d49e",
+  "ref": "REF327550",
+  "rank": 0,
+  "title": "3",
+  "displayName": {
+    "dflt": {
+      "nameDef": "3",
+      "imp": [],
+      "salesSupport": {
+        "fr": {
+          "name": "3",
+          "description": "3"
+        },
+        "en": {
+          "name": "3",
+          "description": "3"
+        },
+        "ar": {
+          "name": "3",
+          "description": "3"
+        }
+      }
+    }
+  },
+  "description": {
+    "dflt": {
+      "nameDef": "3",
+      "imp": [],
+      "salesSupport": {}
+    }
+  },
+  "img": {
+    "dflt": {
+      "img": "d:/model-IA-image/generated_images\\3_from_json.webp",
+      "salesSupport": {}
+    }
+  },
+  "video": {
+    "url": "",
+    "type": ""
+  },
+  "price": 7.5,
+  "category": "AUTRES",
+  "allergens": [],
+  "options": [],
+  "isAvailable": true,
+  "items": [],
+  "linkedItems": [],
+  "linkedChild": [],
+  "linkedTags": [],
+  "visibilityInfo": {
+    "dflt": {
+      "1": [
+        2,
+        1,
+        0
+      ],
+      "2": [
+        2,
+        1,
+        0
+      ],
+      "3": [
+        2,
+        1,
+        0
+      ]
+    },
+    "isVisible": true,
+    "basicCompVisibility": true
+  },
+  "isInfoModeActive": true,
+  "archive": false,
+  "color": "#FFFFFF",
+  "idCard": [],
+  "parent": "",
+  "liaison": [],
+  "isNameShow": true,
+  "child": [],
+  "dateCreation": "2026-03-09 12:43:02",
+  "_generated_by_ai": true
+}

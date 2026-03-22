@@ -69,11 +69,45 @@ python main.py
 ```
 Choisissez l'option 1 et entrez vos descriptions de produits.
 
-### Mode Démo
+(Le menu a été simplifié ; les modes démo et étapes ne sont plus disponibles.)
+
+### Génération de Catégories Indépendante
+Le modèle de catégories fonctionne seul et peut être invoqué sans exécuter le système produit. En mode interactif chaque description génère également un résumé lisible et une image placeholder.
+Deux options :
+
 ```bash
-python main.py
+# mode interactif via le script dédié
+python categories.py
+
+# génération par arguments en ligne
+actionner : python categories.py "Nos Pizzas" "Boissons"
 ```
-Choisissez l'option 2 pour voir des exemples prédéfinis.
+
+ou en Python :
+```python
+from category_generator_ai import CategoryGeneratorAI
+
+gen = CategoryGeneratorAI(r"c:\Users\mohamed taher\Downloads\3.json")
+# génération standard
+cat = gen.generate_complete_category("Boissons Fraîches")
+print(cat)
+
+# génération avec champs personnalisés (couleur, items, visibilité...)
+cat2 = gen.generate_category_with_overrides(
+    "ESPRESSO",
+    color="#FFFFE0",
+    items=[
+        "8e7a650f-992b-49bb-aeef-58c24b597b60",
+        "df3c2c5b-e057-4c52-baa4-34ed84c176ae"
+    ],
+    visibilityInfo={
+        "dflt": {"isVisible": False},
+        "isVisible": False,
+        "basicCompVisibility": True
+    }
+)
+print(cat2)
+```
 
 ### Utilisation Programmatique
 ```python

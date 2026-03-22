@@ -1,0 +1,447 @@
+[
+  {
+    "id": "a084c10e-11af-4166-8bc9-2dca74564bb5",
+    "title": "Préparation - Pizza margherita classique",
+    "description": "Étapes de préparation pour pizza margherita classique",
+    "steps": [
+      {
+        "id": "207430e0-bdd9-459f-ae48-6b6e61953635",
+        "order": 1,
+        "title": "Étape 1",
+        "description": "Étaler la pâte à pizza sur une plaque farinée",
+        "duration": "1 min",
+        "instructions": "Étaler la pâte à pizza sur une plaque farinée",
+        "tips": "Utilisez un rouleau à pâtisserie pour une épaisseur uniforme",
+        "translations": {
+          "en": "spread la pâte à pizza sur une plaque farinée",
+          "ar": "نشر la pâte à pizza sur une plaque farinée"
+        }
+      },
+      {
+        "id": "2c53865b-6761-4ba5-9812-4efa9300e6f9",
+        "order": 2,
+        "title": "Étape 2",
+        "description": "Étaler la sauce tomate uniformément",
+        "duration": "2 min",
+        "instructions": "Étaler la sauce tomate uniformément",
+        "tips": "Utilisez un rouleau à pâtisserie pour une épaisseur uniforme",
+        "translations": {
+          "en": "spread la sauce tomate uniformément",
+          "ar": "نشر la sauce tomate uniformément"
+        }
+      },
+      {
+        "id": "eeea42c7-4ffa-4391-a622-77c44833a241",
+        "order": 3,
+        "title": "Étape 3",
+        "description": "Ajouter le fromage râpé",
+        "duration": "2 min",
+        "instructions": "Ajouter le fromage râpé",
+        "tips": "Le fromage doit être râpé finement pour une meilleure fonte",
+        "translations": {
+          "en": "add le fromage râpé",
+          "ar": "إضافة le fromage râpé"
+        }
+      },
+      {
+        "id": "3bd36393-9b1b-4027-a477-c64b9bf05ecc",
+        "order": 4,
+        "title": "Étape 4",
+        "description": "Disposer les ingrédients choisis",
+        "duration": "3 min",
+        "instructions": "Disposer les ingrédients choisis",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Disposer les ingrédients choisis",
+          "ar": "Disposer les ingrédients choisis"
+        }
+      },
+      {
+        "id": "7a05161a-7940-4918-99c3-03e4d30ad1cc",
+        "order": 5,
+        "title": "Étape 5",
+        "description": "Enfourner à 250°C pendant 12-15 minutes",
+        "duration": "1 min",
+        "instructions": "Enfourner à 250°C pendant 12-15 minutes",
+        "tips": "Préchauffez toujours le four à température maximale",
+        "translations": {
+          "en": "bake à 250°C pendant 12-15 minutes",
+          "ar": "وضع في الفرن à 250°C pendant 12-15 minutes"
+        }
+      },
+      {
+        "id": "6c7d8e22-9646-4c65-a43f-8965a667676c",
+        "order": 6,
+        "title": "Étape 6",
+        "description": "Laisser reposer 2 minutes avant de servir",
+        "duration": "5 min",
+        "instructions": "Laisser reposer 2 minutes avant de servir",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "let reposer 2 minutes avant de serve",
+          "ar": "ترك reposer 2 minutes avant de تقديم"
+        }
+      }
+    ],
+    "totalTime": "12-15 minutes à 250°C",
+    "difficulty": "Moyen",
+    "servings": 1,
+    "created": "2026-03-12 12:48:20"
+  },
+  {
+    "id": "cae87b0f-5506-4b8f-92c3-8345785b4759",
+    "title": "Préparation - Milkshake au chocolat",
+    "description": "Étapes de préparation pour milkshake au chocolat",
+    "steps": [
+      {
+        "id": "e1349fe2-5d60-42f0-871c-91475923e725",
+        "order": 1,
+        "title": "Étape 1",
+        "description": "Verser le lait froid dans le blender",
+        "duration": "5 min",
+        "instructions": "Verser le lait froid dans le blender",
+        "tips": "Servez immédiatement pour conserver la texture onctueuse",
+        "translations": {
+          "en": "pour le lait froid dans le blender",
+          "ar": "صب le lait froid dans le blender"
+        }
+      },
+      {
+        "id": "ca270a32-0136-4f0d-9c1b-e991079ca7fc",
+        "order": 2,
+        "title": "Étape 2",
+        "description": "Ajouter la glace vanille",
+        "duration": "4 min",
+        "instructions": "Ajouter la glace vanille",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "add la glace vanille",
+          "ar": "إضافة la glace vanille"
+        }
+      },
+      {
+        "id": "8b93e11c-1fce-4942-b7be-99096663b7ea",
+        "order": 3,
+        "title": "Étape 3",
+        "description": "Incorporer le sirop de saveur",
+        "duration": "3 min",
+        "instructions": "Incorporer le sirop de saveur",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Incorporer le sirop de saveur",
+          "ar": "Incorporer le sirop de saveur"
+        }
+      },
+      {
+        "id": "e62913fa-d645-45e5-839b-a9ec02ec9e14",
+        "order": 4,
+        "title": "Étape 4",
+        "description": "Mixer à vitesse maximale pendant 30 secondes",
+        "duration": "5 min",
+        "instructions": "Mixer à vitesse maximale pendant 30 secondes",
+        "tips": "Ne dépassez pas 30 secondes pour éviter que la glace fonde trop",
+        "translations": {
+          "en": "Mixer à vitesse maximale pendant 30 secondes",
+          "ar": "Mixer à vitesse maximale pendant 30 secondes"
+        }
+      },
+      {
+        "id": "d30b32c9-8e40-4274-8405-32b7a6f88f3e",
+        "order": 5,
+        "title": "Étape 5",
+        "description": "Verser dans un verre haut",
+        "duration": "5 min",
+        "instructions": "Verser dans un verre haut",
+        "tips": "Servez immédiatement pour conserver la texture onctueuse",
+        "translations": {
+          "en": "pour dans un verre haut",
+          "ar": "صب dans un verre haut"
+        }
+      },
+      {
+        "id": "fbd10455-8528-4edf-b48d-ed0ec747243c",
+        "order": 6,
+        "title": "Étape 6",
+        "description": "Décorer avec de la chantilly et un topping",
+        "duration": "4 min",
+        "instructions": "Décorer avec de la chantilly et un topping",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Décorer avec de la chantilly et un topping",
+          "ar": "Décorer avec de la chantilly et un topping"
+        }
+      }
+    ],
+    "totalTime": "30 secondes de mixage",
+    "difficulty": "Facile",
+    "servings": 1,
+    "created": "2026-03-12 12:48:20"
+  },
+  {
+    "id": "9aa396f8-25e7-40eb-8254-1cca297560b1",
+    "title": "Préparation - Salade césar",
+    "description": "Étapes de préparation pour salade césar",
+    "steps": [
+      {
+        "id": "2a9a3185-04a8-475f-8401-1a16f197986b",
+        "order": 1,
+        "title": "Étape 1",
+        "description": "Laver soigneusement toutes les feuilles",
+        "duration": "1 min",
+        "instructions": "Laver soigneusement toutes les feuilles",
+        "tips": "Utilisez une eau vinaigrée pour éliminer les pesticides",
+        "translations": {
+          "en": "Laver soigneusement toutes les feuilles",
+          "ar": "Laver soigneusement toutes les feuilles"
+        }
+      },
+      {
+        "id": "a5cd680d-743f-4a49-b454-2934686c602d",
+        "order": 2,
+        "title": "Étape 2",
+        "description": "Égoutter et essorer les légumes",
+        "duration": "3 min",
+        "instructions": "Égoutter et essorer les légumes",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Égoutter et essorer les légumes",
+          "ar": "Égoutter et essorer les légumes"
+        }
+      },
+      {
+        "id": "5507a722-39b2-41bc-9771-edd01f9ec5db",
+        "order": 3,
+        "title": "Étape 3",
+        "description": "Couper les ingrédients en morceaux réguliers",
+        "duration": "4 min",
+        "instructions": "Couper les ingrédients en morceaux réguliers",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Couper les ingrédients en morceaux réguliers",
+          "ar": "Couper les ingrédients en morceaux réguliers"
+        }
+      },
+      {
+        "id": "14ceb338-3704-4158-8b72-63a2d14a4062",
+        "order": 4,
+        "title": "Étape 4",
+        "description": "Préparer la vinaigrette dans un bol",
+        "duration": "3 min",
+        "instructions": "Préparer la vinaigrette dans un bol",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "prepare la vinaigrette dans un bol",
+          "ar": "تحضير la vinaigrette dans un bol"
+        }
+      },
+      {
+        "id": "dec6dfdd-b28d-4c92-9238-41ac1a48d5e5",
+        "order": 5,
+        "title": "Étape 5",
+        "description": "Mélanger délicatement les ingrédients",
+        "duration": "3 min",
+        "instructions": "Mélanger délicatement les ingrédients",
+        "tips": "Mélangez toujours avec les mains pour ne pas abîmer les feuilles",
+        "translations": {
+          "en": "mix délicatement les ingrédients",
+          "ar": "خلط délicatement les ingrédients"
+        }
+      },
+      {
+        "id": "d48385aa-93a2-4184-acaa-e2f10142c28f",
+        "order": 6,
+        "title": "Étape 6",
+        "description": "Assaisonner et servir frais",
+        "duration": "1 min",
+        "instructions": "Assaisonner et servir frais",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Assaisonner et serve frais",
+          "ar": "Assaisonner et تقديم frais"
+        }
+      }
+    ],
+    "totalTime": "5 minutes de préparation",
+    "difficulty": "Moyen",
+    "servings": 3,
+    "created": "2026-03-12 12:48:20"
+  },
+  {
+    "id": "cee4fdda-6324-467e-b767-41cb2b6cbbd6",
+    "title": "Préparation - Pâtes carbonara",
+    "description": "Étapes de préparation pour pâtes carbonara",
+    "steps": [
+      {
+        "id": "45402f09-177a-4763-82e5-1dc781d6ad3b",
+        "order": 1,
+        "title": "Étape 1",
+        "description": "Porter l'eau salée à ébullition",
+        "duration": "2 min",
+        "instructions": "Porter l'eau salée à ébullition",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Porter l'eau salée à ébullition",
+          "ar": "Porter l'eau salée à ébullition"
+        }
+      },
+      {
+        "id": "a957b4a4-7973-4a42-8c75-1086b70a99c0",
+        "order": 2,
+        "title": "Étape 2",
+        "description": "Cuire les pâtes al dente selon le temps indiqué",
+        "duration": "1 min",
+        "instructions": "Cuire les pâtes al dente selon le temps indiqué",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "cook les pâtes al dente selon le temps indiqué",
+          "ar": "طبخ les pâtes al dente selon le temps indiqué"
+        }
+      },
+      {
+        "id": "a3e4b816-6ed0-4cf1-ad16-a001dacf4741",
+        "order": 3,
+        "title": "Étape 3",
+        "description": "Égoutter les pâtes en gardant un peu d'eau de cuisson",
+        "duration": "3 min",
+        "instructions": "Égoutter les pâtes en gardant un peu d'eau de cuisson",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Égoutter les pâtes en gardant un peu d'eau de cuisson",
+          "ar": "Égoutter les pâtes en gardant un peu d'eau de cuisson"
+        }
+      },
+      {
+        "id": "2bdba5db-5c7a-4a90-98bb-88524588e959",
+        "order": 4,
+        "title": "Étape 4",
+        "description": "Faire revenir l'ail et les ingrédients dans l'huile",
+        "duration": "4 min",
+        "instructions": "Faire revenir l'ail et les ingrédients dans l'huile",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Faire revenir l'ail et les ingrédients dans l'huile",
+          "ar": "Faire revenir l'ail et les ingrédients dans l'huile"
+        }
+      },
+      {
+        "id": "8237f5a3-b484-460d-ac5f-715f8986947e",
+        "order": 5,
+        "title": "Étape 5",
+        "description": "Ajouter les pâtes et mélanger",
+        "duration": "3 min",
+        "instructions": "Ajouter les pâtes et mélanger",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "add les pâtes et mix",
+          "ar": "إضافة les pâtes et خلط"
+        }
+      },
+      {
+        "id": "0d225ef8-625f-41c7-ab19-fca1b841e2f6",
+        "order": 6,
+        "title": "Étape 6",
+        "description": "Servir immédiatement avec du parmesan",
+        "duration": "5 min",
+        "instructions": "Servir immédiatement avec du parmesan",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "serve immédiatement avec du parmesan",
+          "ar": "تقديم immédiatement avec du parmesan"
+        }
+      }
+    ],
+    "totalTime": "8-12 minutes selon le type",
+    "difficulty": "Moyen",
+    "servings": 3,
+    "created": "2026-03-12 12:48:20"
+  },
+  {
+    "id": "7f533013-42fa-4a27-bd70-630da8e304c7",
+    "title": "Préparation - Burger gourmet",
+    "description": "Étapes de préparation pour burger gourmet",
+    "steps": [
+      {
+        "id": "ec006f14-0fda-46f7-a59a-bb6f24d2f791",
+        "order": 1,
+        "title": "Étape 1",
+        "description": "Former les steaks hachés en galettes",
+        "duration": "2 min",
+        "instructions": "Former les steaks hachés en galettes",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Former les steaks hachés en galettes",
+          "ar": "Former les steaks hachés en galettes"
+        }
+      },
+      {
+        "id": "8ec391de-e9fd-4618-bef4-60d14e8e2750",
+        "order": 2,
+        "title": "Étape 2",
+        "description": "Assaisonner les deux faces",
+        "duration": "2 min",
+        "instructions": "Assaisonner les deux faces",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Assaisonner les deux faces",
+          "ar": "Assaisonner les deux faces"
+        }
+      },
+      {
+        "id": "f04feb7d-7811-45b1-979c-d560c21fbac0",
+        "order": 3,
+        "title": "Étape 3",
+        "description": "Faire chauffer la poêle ou la plancha",
+        "duration": "2 min",
+        "instructions": "Faire chauffer la poêle ou la plancha",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Faire chauffer la poêle ou la plancha",
+          "ar": "Faire chauffer la poêle ou la plancha"
+        }
+      },
+      {
+        "id": "484cd814-f865-435a-819f-8f2fbcc694e6",
+        "order": 4,
+        "title": "Étape 4",
+        "description": "Cuire 3-4 minutes par face selon la cuisson souhaitée",
+        "duration": "4 min",
+        "instructions": "Cuire 3-4 minutes par face selon la cuisson souhaitée",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "cook 3-4 minutes par face selon la cuisson souhaitée",
+          "ar": "طبخ 3-4 minutes par face selon la cuisson souhaitée"
+        }
+      },
+      {
+        "id": "b0a11910-826f-4749-93cb-4ee7f93fff64",
+        "order": 5,
+        "title": "Étape 5",
+        "description": "Ajouter le fromage en fin de cuisson pour qu'il fonde",
+        "duration": "1 min",
+        "instructions": "Ajouter le fromage en fin de cuisson pour qu'il fonde",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "add le fromage en fin de cuisson pour qu'il fonde",
+          "ar": "إضافة le fromage en fin de cuisson pour qu'il fonde"
+        }
+      },
+      {
+        "id": "59e4122a-951a-4442-afa0-2180bcc70607",
+        "order": 6,
+        "title": "Étape 6",
+        "description": "Assembler le burger avec les ingrédients",
+        "duration": "4 min",
+        "instructions": "Assembler le burger avec les ingrédients",
+        "tips": "Travaillez proprement et précisément",
+        "translations": {
+          "en": "Assembler le burger avec les ingrédients",
+          "ar": "Assembler le burger avec les ingrédients"
+        }
+      }
+    ],
+    "totalTime": "6-8 minutes au total",
+    "difficulty": "Moyen",
+    "servings": 2,
+    "created": "2026-03-12 12:48:20"
+  }
+]

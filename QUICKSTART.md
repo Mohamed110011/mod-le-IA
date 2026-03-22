@@ -13,19 +13,28 @@ pip install -r requirements.txt
 python main.py
 ```
 
+> **Générer des catégories indépendamment**
+> ```bash
+> # mode interactif
+> python categories.py
+>
+> # ou via arguments
+> python categories.py "Nos Pizzas" "Boissons"
+> ```
+
+
+
 ### 3. Choisir un Mode
 
-#### Mode Démo (Recommandé pour débuter)
-- Tapez `2` et appuyez sur Entrée
-- Le système génère automatiquement 5 exemples de produits
-- Les résultats sont sauvegardés dans `generated_products.json`
-- Les images sont dans `generated_images/`
+Le menu a été simplifié : seules deux options restent disponibles.
 
 #### Mode Interactif
 - Tapez `1` et appuyez sur Entrée
 - Entrez une description de produit
 - Exemple : `Pizza Margherita avec mozzarella et basilic`
 - Le système génère tous les détails automatiquement
+
+# (L'option 4 permet de quitter)
 
 **🔍 Nouvelle Fonctionnalité : Recherche**
 - Tapez `search pizza` pour rechercher tous les produits pizza
@@ -168,8 +177,6 @@ price_rules = {
 # Lancer le système
 python main.py
 
-# Mode démo uniquement
-python -c "from main import ProductAISystem; s = ProductAISystem(r'c:\Users\mohamed taher\Downloads\3.json'); s.demo_mode()"
 
 # Tester l'analyseur de données
 python data_analyzer.py

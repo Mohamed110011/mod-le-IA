@@ -45,14 +45,22 @@ class DataAnalyzer:
             if not isinstance(category_data, dict):
                 continue
             
-            # Extraire les informations de catégorie
+            # Extraire les informations de catégorie (tous les champs)
             category_info = {
                 'id': category_data.get('id'),
+                'ref': category_data.get('ref', ''),
                 'title': category_data.get('title', ''),
                 'displayName': category_data.get('displayName', {}),
+                'description': category_data.get('description', {}),
                 'items': category_data.get('items', []),
                 'color': category_data.get('color', ''),
-                'img': category_data.get('img', {})
+                'img': category_data.get('img', {}),
+                'price': category_data.get('price'),
+                'allergens': category_data.get('allergens', []),
+                'options': category_data.get('options', []),
+                'available': category_data.get('available', True),
+                'category': category_data.get('category', ''),
+                'visibilityInfo': category_data.get('visibilityInfo', {}),
             }
             
             self.categories.append(category_info)

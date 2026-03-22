@@ -1,0 +1,880 @@
+[
+  {
+    "id": 452270,
+    "img": "20260309131949baselimitl.webp",
+    "ref": "",
+    "req": false,
+    "title": "SAUCES SAUCES POUR PIZZA",
+    "archive": false,
+    "isBasic": false,
+    "codeEcran": "SAUCES_SAUCES_POU",
+    "isComment": false,
+    "stepItems": {
+      "a087e19c-d7b8-48dc-b21d-607d6d9ffb94": {
+        "img": "sauce_tomate.webp",
+        "rank": 1,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "578f528a-8009-4b2a-87e8-afb6d884254b": {
+        "img": "sauce_creme.webp",
+        "rank": 2,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "4d8144a9-4f29-40d7-846c-9327ad9d5c9b": {
+        "img": "sauce_barbecue.webp",
+        "rank": 3,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "1bef03b4-ae67-4784-8cd4-ad8326ac787d": {
+        "img": "sauce_curry.webp",
+        "rank": 4,
+        "color": "#ffccff",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "ab5ec2db-69cd-4fec-8f21-fd17664ae314": {
+        "img": "sauce_aigre_douce.webp",
+        "rank": 5,
+        "color": "#ff80ff",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "63d6a92e-e6ca-4579-991d-40f5066b70c1": {
+        "img": "sauce_chili_thai.webp",
+        "rank": 6,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "2e4b5664-cc49-4b78-9a66-96b0d9fb2d28": {
+        "img": "sauce_fromage.webp",
+        "rank": 7,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "05cac132-5be7-415b-a6ac-f3d75c8fcb7d": {
+        "img": "sauce_balsamique.webp",
+        "rank": 8,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "e7ee691d-62f3-487f-b5a9-b5ac50f7792c": {
+        "img": "sauce_miel.webp",
+        "rank": 9,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      }
+    },
+    "maxChoices": 9,
+    "minChoices": 0,
+    "displayName": {
+      "dflt": {
+        "imp": [],
+        "nameDef": "SAUCES",
+        "salesSupport": {
+          "1": {
+            "en": "SAUCES",
+            "fr": ""
+          },
+          "2": {
+            "en": "SAUCES",
+            "fr": ""
+          }
+        }
+      }
+    },
+    "isModifiable": false,
+    "nbrWithPrice": 3,
+    "specificOpts": {
+      "isNext": true,
+      "noButton": true,
+      "zeroPrice": false,
+      "isCheapest": false,
+      "nextButton": false,
+      "isExpensive": false,
+      "withoutStep": false
+    },
+    "nbrWithspecialPrice": 3
+  },
+  {
+    "id": 340357,
+    "img": "20260309131949baselimitl.webp",
+    "ref": "",
+    "req": false,
+    "title": "SAUCES TAILLES DE PIZZA",
+    "archive": false,
+    "isBasic": false,
+    "codeEcran": "SAUCES_TAILLES_DE",
+    "isComment": false,
+    "stepItems": {
+      "afa925b8-c6fa-4483-9ceb-e650785456e7": {
+        "img": "sauce_tomate.webp",
+        "rank": 1,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "ac2a185e-90d5-4788-bde2-3d79eb5bd22a": {
+        "img": "sauce_creme.webp",
+        "rank": 2,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "3b4f3569-3f8d-45fb-b21f-0b60590b9acf": {
+        "img": "sauce_barbecue.webp",
+        "rank": 3,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "f7412f41-4ec7-4f3e-a4fe-a08283340406": {
+        "img": "sauce_curry.webp",
+        "rank": 4,
+        "color": "#ffccff",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "2f899c9f-1b92-46fe-bb10-ef2e9b83cd90": {
+        "img": "sauce_aigre_douce.webp",
+        "rank": 5,
+        "color": "#ff80ff",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "b6f438e5-182e-4e2e-853b-2027fbdc2c6c": {
+        "img": "sauce_chili_thai.webp",
+        "rank": 6,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "1e165b26-8dc9-4eaf-b971-c0e030f8e4fc": {
+        "img": "sauce_fromage.webp",
+        "rank": 7,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "928f69c8-c2ed-4b99-90f5-c467630596e1": {
+        "img": "sauce_balsamique.webp",
+        "rank": 8,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "089b3452-84d3-497b-a700-0c44f7a27618": {
+        "img": "sauce_miel.webp",
+        "rank": 9,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      }
+    },
+    "maxChoices": 9,
+    "minChoices": 0,
+    "displayName": {
+      "dflt": {
+        "imp": [],
+        "nameDef": "SAUCES",
+        "salesSupport": {
+          "1": {
+            "en": "SAUCES",
+            "fr": ""
+          },
+          "2": {
+            "en": "SAUCES",
+            "fr": ""
+          }
+        }
+      }
+    },
+    "isModifiable": false,
+    "nbrWithPrice": 3,
+    "specificOpts": {
+      "isNext": true,
+      "noButton": true,
+      "zeroPrice": false,
+      "isCheapest": false,
+      "nextButton": false,
+      "isExpensive": false,
+      "withoutStep": false
+    },
+    "nbrWithspecialPrice": 3
+  },
+  {
+    "id": 524886,
+    "img": "20260309131949baselimitl.webp",
+    "ref": "",
+    "req": false,
+    "title": "ACCOMPAGNEMENTS ACCOMPAGNEMENTS POUR",
+    "archive": false,
+    "isBasic": false,
+    "codeEcran": "ACCOMPAGNEMENTS_ACCOMPAGNE",
+    "isComment": false,
+    "stepItems": {
+      "1068fd50-82fb-41e8-bfb3-7dd73aa9e168": {
+        "img": "frites.webp",
+        "rank": 1,
+        "color": "#FFCCFF",
+        "price": 2.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 1.0,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "26bf33f3-a68e-419b-a309-188af6c155e3": {
+        "img": "salade.webp",
+        "rank": 2,
+        "color": "#FFCCFF",
+        "price": 3.0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 1.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "3247d6c4-157b-41e8-af8b-c81d1ccfa3a8": {
+        "img": "riz.webp",
+        "rank": 3,
+        "color": "#FFCCFF",
+        "price": 2.0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 1.0,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      }
+    },
+    "maxChoices": 3,
+    "minChoices": 0,
+    "displayName": {
+      "dflt": {
+        "imp": [],
+        "nameDef": "ACCOMPAGNEMENTS",
+        "salesSupport": {
+          "1": {
+            "en": "SIDES",
+            "fr": ""
+          },
+          "2": {
+            "en": "SIDES",
+            "fr": ""
+          }
+        }
+      }
+    },
+    "isModifiable": false,
+    "nbrWithPrice": 3,
+    "specificOpts": {
+      "isNext": true,
+      "noButton": true,
+      "zeroPrice": false,
+      "isCheapest": false,
+      "nextButton": false,
+      "isExpensive": false,
+      "withoutStep": false
+    },
+    "nbrWithspecialPrice": 0
+  },
+  {
+    "id": 637802,
+    "img": "20260309131949baselimitl.webp",
+    "ref": "",
+    "req": false,
+    "title": "SAUCES SAUCES POUR SALADE",
+    "archive": false,
+    "isBasic": false,
+    "codeEcran": "SAUCES_SAUCES_POU",
+    "isComment": false,
+    "stepItems": {
+      "be1bf85d-7026-4452-8c69-b6595fdb8f3c": {
+        "img": "sauce_tomate.webp",
+        "rank": 1,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "68b2b80f-f932-4152-9622-737f823b6b1c": {
+        "img": "sauce_creme.webp",
+        "rank": 2,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "8ac274bf-efc7-481d-a01e-00844e41b5e4": {
+        "img": "sauce_barbecue.webp",
+        "rank": 3,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "e646ecdb-9e72-4776-aa0e-bd94d71d9e75": {
+        "img": "sauce_curry.webp",
+        "rank": 4,
+        "color": "#ffccff",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "c108fbb3-a9e7-4a9c-b6ae-a36a653ef166": {
+        "img": "sauce_aigre_douce.webp",
+        "rank": 5,
+        "color": "#ff80ff",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "e21cba6f-8580-4191-991d-4932a8577da2": {
+        "img": "sauce_chili_thai.webp",
+        "rank": 6,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "3c4681c6-b686-410f-ad4b-f99d98227399": {
+        "img": "sauce_fromage.webp",
+        "rank": 7,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "987cf79e-f8fb-4ff8-92e8-40f6523e28d6": {
+        "img": "sauce_balsamique.webp",
+        "rank": 8,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "2747d9a5-d0f7-45b8-94c1-bcb670dbb2fd": {
+        "img": "sauce_miel.webp",
+        "rank": 9,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      }
+    },
+    "maxChoices": 9,
+    "minChoices": 0,
+    "displayName": {
+      "dflt": {
+        "imp": [],
+        "nameDef": "SAUCES",
+        "salesSupport": {
+          "1": {
+            "en": "SAUCES",
+            "fr": ""
+          },
+          "2": {
+            "en": "SAUCES",
+            "fr": ""
+          }
+        }
+      }
+    },
+    "isModifiable": false,
+    "nbrWithPrice": 3,
+    "specificOpts": {
+      "isNext": true,
+      "noButton": true,
+      "zeroPrice": false,
+      "isCheapest": false,
+      "nextButton": false,
+      "isExpensive": false,
+      "withoutStep": false
+    },
+    "nbrWithspecialPrice": 3
+  },
+  {
+    "id": 244311,
+    "img": "20260309131949baselimitl.webp",
+    "ref": "",
+    "req": false,
+    "title": "SAUCES OPTIONS DE CUISSON",
+    "archive": false,
+    "isBasic": false,
+    "codeEcran": "SAUCES_OPTIONS_DE",
+    "isComment": false,
+    "stepItems": {
+      "837bfca4-b88f-479f-9d9d-3ccdea67f96b": {
+        "img": "sauce_tomate.webp",
+        "rank": 1,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "fbd7cd62-0c73-4f9a-b517-dc80702aa334": {
+        "img": "sauce_creme.webp",
+        "rank": 2,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "525bdd56-176d-4077-9094-c33116d84d25": {
+        "img": "sauce_barbecue.webp",
+        "rank": 3,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "472e9f82-5f99-4003-a480-36019001ffd4": {
+        "img": "sauce_curry.webp",
+        "rank": 4,
+        "color": "#ffccff",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "b3cd801f-cf12-40fa-877b-7d3b6b359d07": {
+        "img": "sauce_aigre_douce.webp",
+        "rank": 5,
+        "color": "#ff80ff",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "70da1108-cd7d-479c-b99b-210242f69a2b": {
+        "img": "sauce_chili_thai.webp",
+        "rank": 6,
+        "color": "#FFCCFF",
+        "price": 0,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.3,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "a074deac-0c2a-46f5-ae1a-b3f6d51f30fd": {
+        "img": "sauce_fromage.webp",
+        "rank": 7,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "26ecc9bd-a53d-4394-9521-e07b748b5239": {
+        "img": "sauce_balsamique.webp",
+        "rank": 8,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      },
+      "1faed8c8-a9ea-418c-aa01-62f942b6b5d5": {
+        "img": "sauce_miel.webp",
+        "rank": 9,
+        "color": "#FFCCFF",
+        "price": 0.5,
+        "itemPrice": {
+          "price": {},
+          "isVisible": false
+        },
+        "priceStep": 0.5,
+        "maxChoices": null,
+        "minChoices": 0,
+        "nbrWithPrice": null,
+        "specialPrice": 0.2,
+        "basicCompVisibility": true,
+        "nbrWithspecialPrice": null
+      }
+    },
+    "maxChoices": 9,
+    "minChoices": 0,
+    "displayName": {
+      "dflt": {
+        "imp": [],
+        "nameDef": "SAUCES",
+        "salesSupport": {
+          "1": {
+            "en": "SAUCES",
+            "fr": ""
+          },
+          "2": {
+            "en": "SAUCES",
+            "fr": ""
+          }
+        }
+      }
+    },
+    "isModifiable": false,
+    "nbrWithPrice": 3,
+    "specificOpts": {
+      "isNext": true,
+      "noButton": true,
+      "zeroPrice": false,
+      "isCheapest": false,
+      "nextButton": false,
+      "isExpensive": false,
+      "withoutStep": false
+    },
+    "nbrWithspecialPrice": 3
+  }
+]

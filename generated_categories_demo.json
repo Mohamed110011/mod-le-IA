@@ -1,7 +1,8 @@
 [
   {
-    "id": "e352faf5-c381-4255-9b63-eb1bc6fa0d5d",
-    "ref": "CAT239",
+    "id": "dc492d6c-1684-4353-9262-9e8651772f2d",
+    "ref": "CAT308",
+    "rank": 0,
     "title": "PIZZAS ARTISANALES",
     "displayName": {
       "dflt": {
@@ -16,20 +17,53 @@
         }
       }
     },
+    "description": {
+      "dflt": {
+        "imp": [],
+        "nameDef": "Pizzas Artisanales au feu de bois",
+        "salesSupport": {}
+      }
+    },
     "color": "#E74C3C",
     "img": {
       "dflt": {
-        "img": "https://catalogue.etk360.com/placeholder-category.jpg"
+        "img": "https://catalogue.etk360.com/placeholder-category.jpg",
+        "salesSupport": {}
       }
     },
+    "video": {
+      "url": "",
+      "type": ""
+    },
     "items": [],
+    "child": [],
+    "linkedChild": [],
+    "linkedItems": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": []
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "idCard": [],
+    "parent": "",
+    "archive": false,
+    "liaison": [],
+    "isNameShow": true,
     "isVisible": true,
-    "dateCreation": "2026-02-25 13:05:23",
+    "dateCreation": "2026-03-12 13:01:19",
     "_generated_by_ai": true
   },
   {
-    "id": "9f339ca1-c26d-4d46-8ad7-7aef829a0b28",
-    "ref": "CAT680",
+    "id": "6aac2805-dec9-4722-a51f-12eed20f8af9",
+    "ref": "CAT664",
+    "rank": 0,
     "title": "MILKSHAKES ET",
     "displayName": {
       "dflt": {
@@ -44,20 +78,53 @@
         }
       }
     },
+    "description": {
+      "dflt": {
+        "imp": [],
+        "nameDef": "Milkshakes et Boissons Fraîches",
+        "salesSupport": {}
+      }
+    },
     "color": "#F1C40F",
     "img": {
       "dflt": {
-        "img": "https://catalogue.etk360.com/placeholder-category.jpg"
+        "img": "https://catalogue.etk360.com/placeholder-category.jpg",
+        "salesSupport": {}
       }
     },
+    "video": {
+      "url": "",
+      "type": ""
+    },
     "items": [],
+    "child": [],
+    "linkedChild": [],
+    "linkedItems": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": []
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "idCard": [],
+    "parent": "",
+    "archive": false,
+    "liaison": [],
+    "isNameShow": true,
     "isVisible": true,
-    "dateCreation": "2026-02-25 13:05:23",
+    "dateCreation": "2026-03-12 13:01:19",
     "_generated_by_ai": true
   },
   {
-    "id": "611b9649-0d03-4068-80e0-11bac0dd035d",
-    "ref": "CAT896",
+    "id": "b2565157-97b5-4f72-986f-370fe627feae",
+    "ref": "CAT235",
+    "rank": 0,
     "title": "DESSERTS GOURMANDS",
     "displayName": {
       "dflt": {
@@ -72,20 +139,53 @@
         }
       }
     },
+    "description": {
+      "dflt": {
+        "imp": [],
+        "nameDef": "Desserts Gourmands",
+        "salesSupport": {}
+      }
+    },
     "color": "#9B59B6",
     "img": {
       "dflt": {
-        "img": "https://catalogue.etk360.com/placeholder-category.jpg"
+        "img": "https://catalogue.etk360.com/placeholder-category.jpg",
+        "salesSupport": {}
       }
     },
+    "video": {
+      "url": "",
+      "type": ""
+    },
     "items": [],
+    "child": [],
+    "linkedChild": [],
+    "linkedItems": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": []
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "idCard": [],
+    "parent": "",
+    "archive": false,
+    "liaison": [],
+    "isNameShow": true,
     "isVisible": true,
-    "dateCreation": "2026-02-25 13:05:23",
+    "dateCreation": "2026-03-12 13:01:19",
     "_generated_by_ai": true
   },
   {
-    "id": "4e22d242-de1b-471a-84e1-7ef814d3bac2",
-    "ref": "CAT971",
+    "id": "5edbde2c-010d-4fe9-8e76-91d8f226bacd",
+    "ref": "CAT915",
+    "rank": 0,
     "title": "SALADES DE",
     "displayName": {
       "dflt": {
@@ -100,20 +200,53 @@
         }
       }
     },
+    "description": {
+      "dflt": {
+        "imp": [],
+        "nameDef": "Salades de Saison",
+        "salesSupport": {}
+      }
+    },
     "color": "#2ECC71",
     "img": {
       "dflt": {
-        "img": "https://catalogue.etk360.com/placeholder-category.jpg"
+        "img": "https://catalogue.etk360.com/placeholder-category.jpg",
+        "salesSupport": {}
       }
     },
+    "video": {
+      "url": "",
+      "type": ""
+    },
     "items": [],
+    "child": [],
+    "linkedChild": [],
+    "linkedItems": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": []
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "idCard": [],
+    "parent": "",
+    "archive": false,
+    "liaison": [],
+    "isNameShow": true,
     "isVisible": true,
-    "dateCreation": "2026-02-25 13:05:23",
+    "dateCreation": "2026-03-12 13:01:19",
     "_generated_by_ai": true
   },
   {
-    "id": "b31b2171-99ae-4726-905f-35ae43c19e44",
-    "ref": "CAT476",
+    "id": "6bc7e746-0a61-4fe5-939e-bcf694c53754",
+    "ref": "CAT474",
+    "rank": 0,
     "title": "MENUS ÉTUDIANTS",
     "displayName": {
       "dflt": {
@@ -128,15 +261,47 @@
         }
       }
     },
+    "description": {
+      "dflt": {
+        "imp": [],
+        "nameDef": "Menus Étudiants",
+        "salesSupport": {}
+      }
+    },
     "color": "#E67E22",
     "img": {
       "dflt": {
-        "img": "https://catalogue.etk360.com/placeholder-category.jpg"
+        "img": "https://catalogue.etk360.com/placeholder-category.jpg",
+        "salesSupport": {}
       }
     },
+    "video": {
+      "url": "",
+      "type": ""
+    },
     "items": [],
+    "child": [],
+    "linkedChild": [],
+    "linkedItems": [],
+    "linkedTags": [],
+    "visibilityInfo": {
+      "dflt": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": []
+      },
+      "isVisible": true,
+      "basicCompVisibility": true
+    },
+    "isInfoModeActive": true,
+    "idCard": [],
+    "parent": "",
+    "archive": false,
+    "liaison": [],
+    "isNameShow": true,
     "isVisible": true,
-    "dateCreation": "2026-02-25 13:05:23",
+    "dateCreation": "2026-03-12 13:01:19",
     "_generated_by_ai": true
   }
 ]
